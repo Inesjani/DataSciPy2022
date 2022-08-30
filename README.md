@@ -1,4 +1,4 @@
-# 2021 Course : Neural Data Science with Python
+# 2022 Course : Neural Data Science with Python
 
 ![Logo](miscFiles/course-logo.png "Course Logo")
 
@@ -7,7 +7,7 @@ It will furthermore cover basic analysis concepts used in the field of Neuroscie
 
 ### Objective of the Course 
 
-The field of neuroscience is becoming more and more quantitative and this development is accompanied by of an ever-increasing stream of data derived from the brain. It is essential that this development
+The field of neuroscience is becoming more and more quantitative and this development is accompanied by an ever-increasing stream of data derived from the brain. It is essential that this development
 is performed by neuroscientists who are ready and able to process this data. Data science is an emerging field dedicated to understanding principles in data sets. This teaching unit aims to introduce the principles of data science applied to neural data.
 
 
@@ -15,7 +15,37 @@ Concretely, *Neural Data Science with Python* teaches how to handle, analyze, vi
 
 ### Prerequisites
 
-Bases in neuroanatomy and physiology of the central nervous system are useful. No prior knowledge in programming is required as this course is for beginners.
+Bases in neuroanatomy and physiology of the central nervous system are useful. All data science- and programming concepts are introduced, explained and applied in the course. No prior knowledge in programming is required as this course is for beginners.
+
+The below <i>resources</i> can be used for optional preparation of the course. In particular, the Python Tutorial (Online Resources) is useful for a first contact or a refresher with the programming language.  
+
+<b>Literature Resources</b> 
+The course is loosely based on the book [“Neural Data Science : A primer with Matlab and Python”](https://www.amazon.com/Neural-Data-Science-MATLAB%C2%AE-PythonTM/dp/0128040432). As in the course, the book introduces basic concepts of data analysis applied to neuroscience examples and discusses their implementation with Python (and Matlab). 
+
+<b>Online Resources</b>
+To get familiar or to recall programming concepts in Python, I recommend to use the W3Schools interactive tutorial with explanations and clarifying examples. The tutorial consists of short chapters introducing all essential basics which will be used in the course. Notably, the interactive web-programming interface allows to write and test python code. 
+
+
+W3Schools - Python Tutorial : https://www.w3schools.com/python/default.asp
+
+
+In particular, the following chapters are relevant for the course : 
+
+
+1. Python Tutorial (https://www.w3schools.com/python/default.asp) <br />
+   Python Intro <br />
+   ... <br />
+   Python Arrays
+
+2. Numpy Tutorial (https://www.w3schools.com/python/numpy/default.asp) <br /> 
+NumPy Intro <br />
+... <br />
+NumPy Array Filter
+
+3. Python Matplotlib (https://www.w3schools.com/python/matplotlib_intro.asp) <br />
+Matplotlib Intro <br />
+... <br />
+Matplotlib Pie Charts
 
 ### Competences Acquired
 
