@@ -158,7 +158,7 @@ Please direct all basic inquiries to [Michael Graupner](mailto:michael.graupner@
 All course material will run smoothly on the classroom machines, which will have all the required modules installed. 
 
 In case you want to run the course material on your private computer, the following packages are required : 
-* Python 3.7 (or the common versions 3.6, 3.8)
+* Python 3.8 (or the common versions 3.7, 3.8, 3.9)
 * numpy
 * scipy
 * jupyter
