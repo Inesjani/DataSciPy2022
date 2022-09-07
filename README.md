@@ -61,7 +61,7 @@ Matplotlib Pie Charts
 
 ### Basic Reference for Beginner - Cheat Sheet
 
-This <em>cheat sheet</em> includes the python code we routinely use in the course. It provides a basic reference for beginner. 
+This <b>cheat sheet</b> includes the python code we routinely use in the course. It provides a basic reference for beginner. 
 
 ![Logo](miscFiles/NeuralDataSciPy_cheat-sheet.png "Cheat Sheet")
 
