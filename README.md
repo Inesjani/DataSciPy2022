@@ -65,7 +65,7 @@ This <em>cheat sheet</em> includes the python code we routinely use in the cours
 
 ![Logo](miscFiles/NeuralDataSciPy_cheat-sheet.png "Cheat Sheet")
 
-It can be downloaded as pdf [here](miscFils/NeuralDataSciPy_cheat-sheet.pdf).
+It can be downloaded as pdf [here](miscFiles/NeuralDataSciPy_cheat-sheet.pdf).
 
 ### Lecture Organization and Material
 
