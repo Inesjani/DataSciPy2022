@@ -59,6 +59,13 @@ Matplotlib Pie Charts
 * Active participation and contribution in particular during the tutorials.
 * Feedback during the course and contributions to an open dialog to achieve on optimal learning experience.
 
+### Basic Reference for Beginner - Cheat Sheet
+
+This <em>cheat sheet</em> includes the python code we routinely use in the course. It provides a basic reference for beginner. 
+
+![Logo](miscFiles/NeuralDataSciPy_cheat-sheet.png "Cheat Sheet")
+
+It can be downloaded as pdf [here](miscFils/NeuralDataSciPy_cheat-sheet.pdf).
 
 ### Lecture Organization and Material
 
